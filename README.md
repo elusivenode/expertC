@@ -1,1 +1,1 @@
-# expertC
+# Challenges, exercises and other from book Expert C by Peter van der Linden
